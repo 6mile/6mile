@@ -11,7 +11,7 @@ I am a father, entrepeneur and I used to [snowboard a lot.](https://www.youtube.
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on DevSecOps Playbook</p>
 <p>💬 Ask me about DevSecOps, SDLC compliance, modern web application security</p>
-<p>📫 How to reach me? paulm@securestack.com</p>
+<p>📫 How to reach me? paulm (at) securestack.com</p>
 
 ## 💻 Skills
 <p>
