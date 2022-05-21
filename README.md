@@ -9,9 +9,9 @@ My name is Paul McCarty and I'm the founder of [SecureStack](https://securestack
 I am a father, entrepeneur and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
 
 ## 💫 About Me
-<p>🔭 I'm currently working on [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook), [Essential 8 for SDLC](https://github.com/SecureStackCo/Essential8-SDLC), and the [SecureStack DevSecOps Maturity Platform](https://securestack.com/devsecopsmaturity/)</p>
-<p>💬 Ask me about DevSecOps, SDLC compliance, modern web application security</p>
-<p>📫 How to reach me? paulm (at) securestack.com</p>
+🔭 I'm currently working on [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook), [Essential 8 for SDLC](https://github.com/SecureStackCo/Essential8-SDLC), and the [SecureStack DevSecOps Maturity Platform](https://securestack.com/devsecopsmaturity/)  
+💬 Ask me about DevSecOps, SDLC compliance, modern web application security  
+📫 How to reach me? paulm (at) securestack.com</p>  
 
 ## 👥 Connect With Me
 <p>
