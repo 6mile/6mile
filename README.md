@@ -20,7 +20,7 @@ I am a father, entrepeneur and I used to [snowboard a lot.](https://www.youtube.
 </p>
 
 ## Tech Stack  
-[![JavaScript_GoLang_MySQL_AWS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_GoLang_MySQL_AWS_)](https://pimp-my-readme.webapp.io)
+[![JavaScript_GoLang_MySQL_AWS_Bash_Ansible_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_GoLang_MySQL_AWS_Bash_Ansible)](https://pimp-my-readme.webapp.io)
 
 ## 📊 Github Status
 
