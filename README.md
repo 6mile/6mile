@@ -19,6 +19,9 @@ I am a father, entrepeneur and I used to [snowboard a lot.](https://www.youtube.
 <a href="https://twitter.com/@eastsidemccarty"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
+## Tech Stack  
+[![JavaScript_GoLang_MySQL_AWS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_GoLang_MySQL_AWS_)](https://pimp-my-readme.webapp.io)
+
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=6mile"><p>
