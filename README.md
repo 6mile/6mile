@@ -1,5 +1,3 @@
-# Hi there 👋, My name is Paul McCarty
-
 <img width="100%" src="https://github.com/6mile/6mile/blob/main/6mile-banner.png" alt="my banner">
 
 SecureStack Founder and DevSecOps Evangelist
