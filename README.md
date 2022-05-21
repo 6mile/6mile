@@ -4,6 +4,10 @@
 
 SecureStack Founder and DevSecOps Evangelist
 
+My name is Paul McCarty and I'm the founder of [SecureStack](https://securestack.com).  I like to describe SecureStack as the world's first DevSecOps Maturity Platform because we help our customers assess and then accelerate their DevSecOps journey.
+
+I am a father, entrepeneur and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
+
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on DevSecOps Playbook</p>
 <p>💬 Ask me about DevSecOps, SDLC compliance, modern web application security</p>
