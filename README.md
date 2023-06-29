@@ -18,19 +18,13 @@ programs regardless of their size or industry.
 
 ### [Visualizing the Software Supply Chain](https://github.com/SecureStackCo/visualizing-software-supply-chain)
 
-The software supply chain is under increasing attack, but there is no industry standard dejnition of what the
-software supply chain is. /ow can we hope to secure the SSC if we don't know what's in it( This proUect is my
-attempt at creating a common dejnition to help organizations understand the scope and breadth of the SSC.
+The software supply chain is under increasing attack, but there is no industry standard definition of what the software supply chain is. How can we hope to secure the SSC if we don't know what's in it?  This project is my attempt at creating a common definition to help organizations understand the scope and breadth of the SSC.
 
 ### [Open Software Supply Chain Attack Reference](https://pbom.dev)
-OSC&R is a comprehensive, systematic and actionable way to understand attacker behaviors and techniques
-with respect to the software supply chain. It is a matrix style document modeled on the MITRE ATT&CK matrix.
-I am a contributing member to the project.
+OSC&R is a comprehensive, systematic and actionable way to understand attacker behaviors and techniques with respect to the software supply chain. It is a matrix style document modeled on the MITRE ATT&CK matrix.  I am a contributing member to the project.
 
 ### [Minimal Viable Secure Product](https://mvsp.dev)
-The Minimal Viable Secure Product FMVSP􀁊 is a minimum security baseline for enterprise-ready products and
-services. The baseline checklist can be used at various stages of the sales cycle, from R􀁋P through to contractual
-controls. I am an original contributing member.
+The Minimal Viable Secure Product MVSP is a minimum security baseline for enterprise-ready products and services. The baseline checklist can be used at various stages of the sales cycle, from RFP through to contractual controls. I am an original contributing member.
 
 ## 👥 Connect With Me
 <p>
