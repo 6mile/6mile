@@ -1,15 +1,37 @@
 <img width="100%" src="https://github.com/6mile/6mile/blob/main/6mile-banner.png" alt="my banner">
 
-SecureStack Founder and DevSecOps Evangelist
-
 My name is Paul McCarty and I'm the founder of [SecureStack](https://securestack.com).  I like to describe SecureStack as the world's first DevSecOps Maturity Platform because we help our customers assess and then accelerate their DevSecOps journey.
 
-I am a father, entrepeneur and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
-
 ## 💫 About Me
-🔭 I'm currently working on [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook), [Essential 8 for SDLC](https://github.com/SecureStackCo/Essential8-SDLC), and the [SecureStack DevSecOps Maturity Platform](https://securestack.com/devsecopsmaturity/)  
-💬 Ask me about DevSecOps, SDLC compliance, modern web application security  
+I am a DevSecOps evangelist and thought leader obsessed with applied application security and securing the software supply chain. I like to say that I'm a technical founder who likes to work at the intersection of product delivery and security. I have built and led multiple product delivery teams: for the government, in the private sector and for my own startup, SecureStack.
+
+I am a frequent public speaker and have presented at many events including: OWASP, SecTalks, CrikeyCon, TuskCon, RSA, AISA, and multiple BSides.  I am a proud father, and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
+
 📫 How to reach me? paulm (at) securestack.com</p>  
+
+## My Projects
+### The DevSecOps Playbook
+I wrote the DevSecOps Playbook in 2022 as a step-by-step guide for organizations to implement DevSecOps
+programs regardless of their size or industry.
+https:GGgithub.comG6mileGDevSecOps-Playbook
+
+### Visualizing the Software Supply Chain
+The software supply chain is under increasing attack, but there is no industry standard dejnition of what the
+software supply chain is. /ow can we hope to secure the SSC if we don't know what's in it( This proUect is my
+attempt at creating a common dejnition to help organizations understand the scope and breadth of the SSC.
+https://github.com/SecureStackCo/visualizing-software-supply-chain
+
+### Open Software Supply Chain Attack Reference
+OSC&R is a comprehensive, systematic and actionable way to understand attacker behaviors and techniques
+with respect to the software supply chain. It is a matri; style document modeled on the MITRE ATTKC) matri;.
+I am a contributing member to the proUect.
+https://pbom.dev
+
+Minimal Viable Secure Product
+The Minimal Viable Secure Product FMVSP􀁊 is a minimum security baseline for enterprise-ready products and
+services. The baseline checklist can be used at various stages of the sales cycle, from R􀁋P through to contractual
+controls. I am an original contributing member.
+https://mvsp.dev
 
 ## 👥 Connect With Me
 <p>
