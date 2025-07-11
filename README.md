@@ -1,9 +1,8 @@
-<img width="100%" src="https://github.com/6mile/6mile/blob/main/6mile-banner.png" alt="my banner">
+![6mile Profile](6mile-github-profile-banner.png)
 
-My name is Paul McCarty and I'm the founder of [SecureStack](https://securestack.com).  I like to describe SecureStack as the world's first DevSecOps Maturity Platform because we help our customers assess and then accelerate their DevSecOps journey.
+Call me 6mile. I spend most of my time doing software supply chain research and conducting supply chain offensive security operations. I'm also Head of Research for a supply chain security company.  I'm also the founder of GitHax, SourceCodeRED and SecureStack.  
 
-## 💫 About Me
-I am a DevSecOps evangelist and thought leader obsessed with applied application security and securing the software supply chain. I like to say that I'm a technical founder who likes to work at the intersection of product delivery and security. I have built and led multiple product delivery teams: for the government, in the private sector and for my own startup, SecureStack.
+I've spent most of the last 25+ years doing what we now call DevSecOps. I'm obsessed with securing the software supply chain. I like to say that I'm a technical founder who likes to work at the intersection of product delivery and security. I have built and led multiple product delivery teams: for the government, in the private sector and for my own startups.
 
 I am a frequent public speaker and have presented at many events including: OWASP, SecTalks, CrikeyCon, TuskCon, RSA, AISA, and multiple BSides.  I am a proud father, and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
 
