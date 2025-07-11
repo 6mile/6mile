@@ -6,7 +6,7 @@ I've spent most of the last 25+ years doing what we now call DevSecOps. I'm obse
 
 I am a frequent public speaker and have presented at many events including: OWASP, SecTalks, CrikeyCon, TuskCon, RSA, AISA, and multiple BSides.  I am a proud father, and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
 
-📫 How to reach me? paulm (at) securestack.com</p>  
+📫 How to reach me? 6mile (at) linux.com</p>  
 
 ## My Projects
 
