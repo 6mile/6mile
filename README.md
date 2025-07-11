@@ -1,6 +1,6 @@
 ![6mile Profile](6mile-github-profile-banner.png)
 
-Call me 6mile. I spend most of my time doing software supply chain research and conducting supply chain offensive security operations. I'm also Head of Research for a supply chain security company.  I'm also the founder of GitHax, SourceCodeRED and SecureStack.  
+G'day ya'll.  I spend most of my time doing software supply chain research and conducting supply chain offensive security operations. I'm currently the Head of Research for a supply chain security company [Safety](https://getsafety.com), but I've previously founded GitHax, SourceCodeRED and SecureStack.  
 
 I've spent most of the last 25+ years doing what we now call DevSecOps. I'm obsessed with securing the software supply chain. I like to say that I'm a technical founder who likes to work at the intersection of product delivery and security. I have built and led multiple product delivery teams: for the government, in the private sector and for my own startups.
 
