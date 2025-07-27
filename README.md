@@ -12,8 +12,15 @@ I am a frequent public speaker and have presented at many events including: OWAS
 
 #### [The DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)
 
-I wrote the DevSecOps Playbook in 2022 as a step-by-step guide for organizations to implement DevSecOps
-programs regardless of their size or industry.
+I wrote the DevSecOps Playbook in 2022 as a step-by-step guide for organizations to implement DevSecOps programs regardless of their size or industry.
+
+#### [gimmePATz](https://github.com/6mile/gimmepatz)
+
+gimmePATz is a comprehensive reconnaissance tool for personal access tokens (PAT).  It will tell you if a PAT is valid, and it will enumerate what organizations, secrets and variables a PAT can access.  gimmePATz is built for red teams, pentesters and bug bounty hunters, but it can be useful for anyone that finds a PAT and thinks "I wonder what a bad guy could do with this?".
+
+#### [MALOSS](https://github.com/6mile/MALOSS)
+
+MALOSS (pronounced "malice"), scans package manifest files to see if any of the libraries and packages are malicious. It does this by analyzing local package manifest files, or remote package files, and checking then against GHSA and OSV.  Incredibly, there are no existing open-source tools that help you identify malicious packages in your applications.  That's why I built MALOSS. 
 
 #### [Visualizing the Software Supply Chain](https://github.com/SecureStackCo/visualizing-software-supply-chain)
 
