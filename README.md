@@ -26,11 +26,15 @@ MALOSS (pronounced "malice"), scans package manifest files to see if any of the 
 
 The software supply chain is under increasing attack, but there is no industry standard definition of what the software supply chain is. How can we hope to secure the SSC if we don't know what's in it?  This project is my attempt at creating a common definition to help organizations understand the scope and breadth of the SSC.
 
+#### [TVPO: Threat Modelling for Software Supply Chains](https://github.com/6mile/tvpo)
+
+TVPO is highly flexible threat modelling framework for software supply chains.  The idea was to systematically idenfity gaps in a software supply chain components by defining all those components, and their individual attackability. Red teams, penetration testers, and bug bounty researchers can use this framework to prioritize their offensive operations. 
+
+#### [OpenSSF Malicious Packages](https://github.com/ossf/malicious-packages)
+The aim of this project and repository is to be a comprehensive, high quality, open source database of reports of malicious packages published on open source package repositories. I am one of the main contributors to this project over the last year.
+
 #### [Open Software Supply Chain Attack Reference](https://pbom.dev)
 OSC&R is a comprehensive, systematic and actionable way to understand attacker behaviors and techniques with respect to the software supply chain. It is a matrix style document modeled on the MITRE ATT&CK matrix.  I am a contributing member to the project.
-
-#### [Minimal Viable Secure Product](https://mvsp.dev)
-The Minimal Viable Secure Product MVSP is a minimum security baseline for enterprise-ready products and services. The baseline checklist can be used at various stages of the sales cycle, from RFP through to contractual controls. I am an original contributing member.
 
 ## 👥 Connect With Me
 <p>
