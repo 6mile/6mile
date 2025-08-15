@@ -7,25 +7,7 @@ I've spent most of the last 25+ years doing what we now call DevSecOps. I'm obse
 I am a frequent public speaker and have presented at many events including: OWASP, SecTalks, CrikeyCon, TuskCon, RSA, AISA, and multiple BSides.  I am a proud father, and I used to [snowboard a lot.](https://www.youtube.com/watch?v=dnHD_8f5O2k&list=PLap8pGxdE173KGgnzBJGxFIlVSjODg_mz)
 
 📫 How to reach me? 6mile (at) linux.com</p>  
-
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mccartypaul" target="_blank">Follow on LinkedIn</a>
+🏢 Follow me on [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mccartypaul)
 
 ## My Projects
 
