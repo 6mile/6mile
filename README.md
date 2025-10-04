@@ -39,7 +39,7 @@ The aim of this project and repository is to be a comprehensive, high quality, o
 OSC&R is a comprehensive, systematic and actionable way to understand attacker behaviors and techniques with respect to the software supply chain. It is a matrix style document modeled on the MITRE ATT&CK matrix.  I am a contributing member to the project.
 
 ## :loudspeaker: Conference presentations
-| Event | Talk / Presentation | Slides |
+| Event | Talk / Presentation | URL |
 | -- | -- | -- |
 | FIRST Berlin 2025 |  Evolve or Perish: Integrating Software Supply Chain Intel into Enterprise CTI | [YouTube](https://www.youtube.com/live/j23OubEOjh4?si=YTVRL08Qio3XqBdt&t=5231) |
 | Project Discovery Hardly, Strictly Security |  How secure is your open source project? | [YouTube](https://www.youtube.com/watch?v=KBOXcVeDwyQ) |
