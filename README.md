@@ -38,12 +38,6 @@ The aim of this project and repository is to be a comprehensive, high quality, o
 #### [Open Software Supply Chain Attack Reference](https://pbom.dev)
 OSC&R is a comprehensive, systematic and actionable way to understand attacker behaviors and techniques with respect to the software supply chain. It is a matrix style document modeled on the MITRE ATT&CK matrix.  I am a contributing member to the project.
 
-## 👥 Connect With Me
-<p>
-<a href="https://linkedin.com/in/mccartypaul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/@eastsidemccarty"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
-
 ## :loudspeaker: Conference presentations
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
