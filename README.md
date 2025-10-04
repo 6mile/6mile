@@ -44,17 +44,12 @@ OSC&R is a comprehensive, systematic and actionable way to understand attacker b
 <a href="https://twitter.com/@eastsidemccarty"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 💻Tech Stack
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=6mile&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6mile&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/6mile"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=6mile"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=6mile&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+## :loudspeaker: Conference presentations
+| Event | Talk / Presentation | Slides |
+| -- | -- | -- |
+| FIRST Berlin 2025 |  Evolve or Perish: Integrating Software Supply Chain Intel into Enterprise CTI | [YouTube](https://www.youtube.com/live/j23OubEOjh4?si=YTVRL08Qio3XqBdt&t=5231) |
+| Project Discovery Hardly, Strictly Security |  How secure is your open source project? | [YouTube](https://www.youtube.com/watch?v=KBOXcVeDwyQ) |
+| OWASP Singapore | Hacking the software supply chain one developer at a time | [YouTube](https://www.youtube.com/watch?v=Gee3CeD2NvY) |
+| OWASP LasCon | The DevSecOps Playbook | [YouTube](https://www.youtube.com/watch?v=4pIBUcwXEzQ&t=66s) |
+| CrikeyCon 2021 | All your source code repos are belong to us | [YouTube](https://youtu.be/nvXSlSbxnC0) | 
+| AustCyber | Build your startup cyber secure | [YouTube](https://youtu.be/qhBxHYtu2k4) |
